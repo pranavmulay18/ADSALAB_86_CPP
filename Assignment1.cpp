@@ -50,3 +50,6 @@ int main() {
 
     return 0;
 }
+
+//INPUT:-int arr[] = {1, 1, 1, 0, 0};
+//OUTPUT:-Number of 0s: 2
